@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Bangkok . Thailand
 * ✉️  You can contact me at [dedruktip.n@gamil.com](mailto:dedruktip.n@gamil.com)
-
+* ✉️  my resume  <a href="https://drive.google.com/file/d/1DdfNrQL7X2ufYRgbQniIMCpg71GJ3uyJ/view?usp=drive_link" target="_blank" rel="noreferrer">
 ### Skills
 
 
